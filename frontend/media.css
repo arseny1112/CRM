@@ -1,0 +1,293 @@
+@media(max-width: 1245px){
+    .container{
+        /* margin: 0 20px !important; */
+        max-width: 1122px !important; 
+    }
+
+   
+
+    .clientsContacts{
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .tableHeadActions{
+        margin-left: 10px;
+    }
+
+    .UpdDelFolder{
+        margin-left: 51px;
+    }
+
+
+}
+
+@media(max-width: 1180px){
+    .container{
+        max-width: 1051px !important;
+    }
+
+    .preloader{
+        top: 108px
+    }
+
+    .clientsContacts{
+        padding-right: 0px !important;
+    }
+
+   
+
+    .updatediv{
+        padding-left: 0px !important;
+    }
+
+    
+
+    .tableHeadFIO{
+        max-width: 244px !important;
+    }
+
+    .tableHeadDate {
+        max-width: 152px !important;
+        background-position: 72px 34px;
+    }
+
+    .tableHeadUpdates {
+        max-width: 154px !important;
+        background-position: 85px 34px;
+    }
+
+    .clientsFIO{
+            max-width: 221px !important;
+    }
+
+    .clientsDate{
+        max-width: 72px  !important;
+    }
+
+    
+
+    .clientsUpdates{
+        max-width: 72px !important;
+    }
+
+    .datediv{
+        padding-left: 17px !important;
+    }
+
+    .UpdDelFolder{
+        margin-left: 33px;
+    }
+}
+
+
+
+@media (max-width: 1112px) {
+    .container{
+        max-width: 984px !important;
+    }
+
+    
+
+    .clientsID{
+        max-width: 62px;
+        word-break: break-all;
+    }
+
+    .tableHeadID{
+        max-width: 54px !important;
+    }
+
+    .tableHeadContacts{
+        max-width: 138px;
+    }
+
+    .clientsContacts{
+        margin-left: 28px;
+    }
+
+    .UpdDelFolder{
+        margin-left: 27px;
+    }
+
+    .tableHeadActions{
+        margin-left: 0;
+    }
+
+    
+}
+
+
+@media (max-width: 1043px) {
+    .container{
+        max-width: 967px !important;
+    }
+
+    .clientsID{
+        max-width: 42px;
+    }
+
+    .tableHeadID{
+        max-width: 33px !important;
+    }
+}
+
+@media (max-width: 1012px) {
+    .container{
+        max-width: 938px !important;
+    }
+
+    .show-more-btn{
+        width: 16px;
+        height: 16px;
+        font-size: 10px;
+    }
+
+    .UpdDelFolder{
+        margin-left: 12px;
+    }
+
+    .clientsContacts{
+        margin-left: 18px;
+    }
+}
+
+@media(max-width: 997px){
+    .container{
+        max-width: 890px !important;
+    }
+
+    .UpdDelFolder{
+        flex-direction: column;
+       justify-content: center;
+       margin-left: 45px;
+    }
+
+
+    .updateBtn,
+    .deleteBtn{
+        max-height: 20px;
+        padding-left: 15px !important;
+    }
+
+    .datediv{
+        max-width: 133px !important;
+    }
+
+    .updatediv{
+        margin-left: 29px !important;
+    }
+
+    .tableHeadUpdates{
+        margin-left: 14px;
+    }
+}
+
+
+@media (max-width: 950px) {
+    .container{
+        max-width: 825px !important;
+    }
+
+    .clientsContacts{ 
+        padding-right: 18px !important;
+    }
+
+    .datediv{
+        flex-direction: column;
+        padding-top: 10px;
+    }
+
+    .updatediv{
+        flex-direction: column;
+        padding-top: 10px !important;
+        max-width: 96px !important;
+    }
+
+    .clientsDate{
+        max-height: 20px; 
+        padding: 0 !important;
+    }
+
+    .clientsUpdates{
+        max-height: 20px;
+        padding: 0 !important;
+    }
+
+    .clientsContacts{
+        padding-right: 0 !important;
+        margin-left: 0;
+    }
+
+    .clients-time{
+        margin: 0;
+        padding: 0;
+    }
+
+    .tableHeadUpdates{
+        max-width: 105px !important;
+        margin-left: 0;
+    }
+
+
+    .UpdDelFolder{
+        margin-left: 18px;
+    }
+}
+
+@media (max-width: 917px) {
+
+   .UpdDelFolder{
+    flex-direction: column;
+    justify-content: center;
+   } 
+
+   .updateBtn{
+    padding-bottom: 5px;
+   }
+
+
+
+}
+
+
+@media (max-width: 886px) {
+    .container{
+        max-width: 728px !important;
+    }
+
+    .clientsFIO{
+        max-width: 185px !important;
+    }
+
+    .tableHeadFIO{
+        max-width: 201px !important;
+    }
+
+    .datediv{
+        max-width: 107px !important;
+    }
+
+    .updatediv{
+        padding: 0;
+    }
+}
+
+@media (max-width:768px) {
+    .container{
+        max-width: 711px;
+    }
+}
+
+@media(min-width: 0px){
+
+    .container,
+    .main,
+    .header{
+        min-width: 711px;
+    }
+
+    .tableHeadDate{
+        /* max-width: 94px !important; */
+    }
+}
